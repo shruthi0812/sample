@@ -6,6 +6,7 @@ public class Practice2 {
 		System.out.println("hello github");
 		System.out.println("hello push");
 		System.out.println("hello");
+		System.out.println("practing push");
 			}
 
 }
